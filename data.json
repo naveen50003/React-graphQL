@@ -1,0 +1,62 @@
+{
+  "launches": [
+    {
+      "id": 1,
+      "flight_number": 1,
+      "mission_name": "FalconSat",
+      "launch_year": "2006",
+      "launch_date_local": "2006-03-25T10:30:00+12:00",
+      "rocket": {
+        "rocket_id": "falcon1",
+        "rocket_name": "Falcon 1",
+        "rocket_type": "Merlin A"
+      },
+      "launch_success": false
+    },
+    {
+      "id": 2,
+      "flight_number": 2,
+      "mission_name": "DemoSat",
+      "launch_year": "2007",
+      "launch_date_local": "2007-03-21T13:10:00+12:00",
+      "rocket": {
+        "rocket_id": "falcon1",
+        "rocket_name": "Falcon 1",
+        "rocket_type": "Merlin A"
+      },
+      "launch_success": false
+    },
+    {
+      "id": 3,
+      "flight_number": 3,
+      "mission_name": "RDX 250",
+      "launch_year": "2008",
+      "launch_date_local": "2008-08-02T15:34:00+12:00",
+      "rocket": {
+        "rocket_id": "falcon1",
+        "rocket_name": "Falcon 1",
+        "rocket_type": "Merlin C"
+      },
+      "launch_success": false
+    },
+    {
+      "id": 4,
+      "flight_number": 4,
+      "mission_name": "RatSat",
+      "launch_year": "2008",
+      "launch_date_local": "2008-09-28T11:15:00+12:00",
+      "rocket": {
+        "rocket_id": "falcon1",
+        "rocket_name": "Falcon 1",
+        "rocket_type": "Merlin C"
+      },
+      "launch_success": true
+    },
+    {
+      "id": 6,
+      "flight_number": 6,
+      "mission_name": "New Mission RDX",
+      "launch_year": "2019"
+    }
+  ]
+}
